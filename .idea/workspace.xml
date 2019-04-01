@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c42a09a-cfc1-48ad-bdda-56b0c2428586" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookmark-store/bookmark-store.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#46#193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/client.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1028">
+              <caret line="116" column="1" lean-forward="true" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+              <folding>
+                <element signature="e#71#139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cli/bookmarks.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="e#81#169#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cli/bookmarks.go" />
+        <option value="$PROJECT_DIR$/client/client.go" />
+        <option value="$PROJECT_DIR$/bookmark-store/bookmark-store.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="1" />
+    <option name="width" value="1638" />
+    <option name="height" value="1306" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="entura" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entura" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="entura" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entura" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmark-store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="entura" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entura" type="462c0819:PsiDirectoryNode" />
+              <item name="cli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="entura" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entura" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cli/bookmarks.go" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.cli retr">
+    <configuration name="cli remove url" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="entura" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <parameters value="removeurls" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cli/bookmarks.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cli retr" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="entura" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <parameters value="retrieve" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cli/bookmarks.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cli store" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="entura" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <parameters value="store challenge_data.json" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cli/bookmarks.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="entura" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/bookmark-store/bookmark-store.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.server" />
+      <item itemvalue="Go Build.cli store" />
+      <item itemvalue="Go Build.cli retr" />
+      <item itemvalue="Go Build.cli remove url" />
+    </list>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="1" width="1638" height="1306" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20288944" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32121724" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;b3&quot;</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/go/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="521" selection-start-line="521" selection-end-line="521" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="710" selection-start-line="710" selection-end-line="710" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="231" column="22" lean-forward="true" selection-start-line="231" selection-start-column="22" selection-end-line="231" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cli/bookmarks.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#81#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmark-store/bookmark-store.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#46#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1028">
+          <caret line="116" column="1" lean-forward="true" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+          <folding>
+            <element signature="e#71#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

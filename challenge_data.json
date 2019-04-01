@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "name": "b1",
+            "entries": [
+                {
+                    "name": "b2",
+                    "url": "https://somesite.com"
+                },
+                {
+                    "name": "b3",
+                    "url": "https://somesite2.com"
+                },
+                {
+                    "name": "b4",
+                    "url": "https://somesites.com"
+                }
+            ]
+        },
+        {
+            "name": "b11",
+            "entries": [
+                {
+                    "name": "b22",
+                    "url": "https://somesite3.com"
+                },
+                {
+                    "name": "b33",
+                    "url": "https://somesite4.com"
+                }
+            ]
+        }
+    ]
+}
